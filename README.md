@@ -6,7 +6,7 @@ The Classic Endemic model presents the number of infectious and susceptible peop
 This repository contains MATLAB codes and my final report on the topic.
 
 
-**Graphs obtained:**
+**Sample graphs:**
 
 ![alt text](https://smartdataviz.files.wordpress.com/2019/01/1.jpg)
 
